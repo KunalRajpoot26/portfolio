@@ -44,6 +44,12 @@ h5 {
     margin-left:0px;
     margin-right:10px;
 }
+.item11 {
+    font-size: 40px;
+    display:flex;
+    margin-left:500px;
+    margin-top:50px;
+}
 .item4 {
     display:flex;
     margin-left: 500px;
@@ -66,10 +72,16 @@ h5 {
     padding-left:275px;
     margin:0;
 }
+.item12 {
+    font-size:20px;
+    padding-left:50px;
+    margin:0px;
+    margin-right:200px;
+}
 .image {
     display:flex;
 }
-.item10 {
+/* .item10 {
     display:flex;
     justify-content:center;
     align-items:center;
@@ -131,4 +143,4 @@ h5 {
 .btn:active {
     color: #000;
     font-weight: bold;
-}
+} */
